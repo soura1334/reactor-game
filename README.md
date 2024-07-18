@@ -15,7 +15,7 @@ This project is a web-based memory game inspired by the Start Reactor task from 
 
 ## Demo
 
-You can play the game [https://soura1334.github.io/reactor-game/](#) .
+You can play the game [https://soura1334.github.io/reactor-game/] .
 
 ## Features
 
